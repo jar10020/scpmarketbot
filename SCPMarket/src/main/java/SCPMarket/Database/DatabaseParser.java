@@ -51,7 +51,7 @@ public class DatabaseParser {
 	 * CHECKING IF AN ACCOUNT EXISTS UNDER THE ID------------------------------------------------------------------------------------------------------------------------------------------------
 	 * 
 	 *  mostly borrowed from: https://stackoverflow.com/questions/29640246/how-to-check-if-a-row-exist-in-the-sqlite-table-with-a-condition
-	 *  I have only a very faint idea how this works but it does.
+	 *  
 	 */
 	
 	public static boolean doesAccountExist(String id) {
