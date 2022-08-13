@@ -12,8 +12,7 @@ public class AccountsParser {
 	
 	/*
 	 * 
-	 * this entire class is a horrible way to code
-	 * and i should go direct to the databaseparser
+	 * i should go direct to the databaseparser
 	 * but i feel like having the buffer for some reason
 	 * so it will remain.
 	 */
